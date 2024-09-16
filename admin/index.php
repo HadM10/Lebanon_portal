@@ -51,7 +51,7 @@
                     <li><a href="#">View User Likes</a></li>
                 </ul>
             </li>
-            <li><a href="#" id="paymentBtn">View Payments</a></li>
+            <li><a href="php/manage_subscribers.php">Manage Subscribers</a></li>
 
             <li><a href=" #">Images</a>
                 <ul>
